@@ -67,3 +67,4 @@ brand9.tampilkan_profil()
 brand10.tampilkan_profil()
 
 print("Total brand :",Brand.jumlah_brand)
+print("Total brand :",Brand.jumlah_brand)
